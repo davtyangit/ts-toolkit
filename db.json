@@ -1,0 +1,82 @@
+{
+  "foods": [
+    {
+      "name": "Nurophen",
+      "price": "9.99",
+      "country": "Poland",
+      "id": 1
+    },
+    {
+      "name": "Xarelto",
+      "price": "20",
+      "country": "Germany",
+      "id": 2
+    },
+    {
+      "name": "Kagocel",
+      "price": "15.88",
+      "country": "Poland",
+      "id": 3
+    },
+    {
+      "name": "Ascophen",
+      "price": "9.88",
+      "country": "Germany",
+      "id": 4
+    },
+    {
+      "name": "Mexodil",
+      "price": "9.99",
+      "country": "Italy",
+      "id": 5
+    },
+    {
+      "name": "Avtorigen",
+      "price": "14.5",
+      "country": "Ukrain",
+      "id": 6
+    },
+    {
+      "name": "Baxodil",
+      "price": "14.7",
+      "country": "Armenia",
+      "id": 7
+    },
+    {
+      "name": "Finalgon",
+      "price": "22.5",
+      "country": "Chekh ",
+      "id": 8
+    },
+    {
+      "name": "Paracetamol",
+      "price": "11",
+      "country": "Germany",
+      "id": 9
+    },
+    {
+      "name": "Abitrol",
+      "price": "20.55",
+      "country": "Ukrain",
+      "id": 10
+    },
+    {
+      "name": "Diclofenat",
+      "price": "20.7",
+      "country": "Italy",
+      "id": 11
+    },
+    {
+      "name": "Betadin",
+      "price": "14.5",
+      "country": "Germany",
+      "id": 12
+    },
+    {
+      "name": "Mallory Watson",
+      "price": "959",
+      "country": "Ut est repudiandae ",
+      "id": 13
+    }
+  ]
+}
